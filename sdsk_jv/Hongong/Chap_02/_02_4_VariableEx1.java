@@ -1,6 +1,5 @@
 package Chap_02;
 
-import javax.sound.midi.Soundbank;
 
 public class _02_4_VariableEx1 {
   public static void main(String[] args) {
