@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class KioskObj {
-	public static ArrayList<src.com.peisia.kiosk.catcafe.Order> basket = new ArrayList<>();	//주문들
+	public static ArrayList<Order> basket = new ArrayList<>();	//주문들
 	public static ArrayList<Product> products = new ArrayList<>();	//상품들
 	public static Scanner sc = new Scanner(System.in);
 	public static String cmd;

@@ -22,7 +22,7 @@ public class Disp {
 	public static void title() {
 		line();
 		dot(10);
-		Cw.w(" 고양이 카페 (v."+ src.com.peisia.kiosk.catcafe.Kiosk.VERSION+" by sm.ahn) ");
+		Cw.w(" 고양이 카페 (v."+ src.com.peisia.kiosk.catcafe.Kiosk.VERSION +" by sm.ahn) ");
 		dot(10);
 		Cw.wn();
 		line();

@@ -15,7 +15,7 @@ public class ProcMenuDrink {
 			KioskObj.cmd = KioskObj.sc.next();
 			switch(KioskObj.cmd) {
 			case "1":
-				src.com.peisia.kiosk.catcafe.ProcMenuOptionHotCold.run();
+				ProcMenuOptionHotCold.run();
 				break;
 			case "2":
 				Cw.wn(KioskObj.products.get(1).name+" 선택됨");
