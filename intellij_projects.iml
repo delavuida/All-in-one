@@ -8,7 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/sdsk_jv/Sdsk_kiosk" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/sdsk_jv/Soldsk" isTestSource="false" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (Python_Basic)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
