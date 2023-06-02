@@ -1,4 +1,4 @@
-package Chap_02;
+package chap_02;
 
 
 public class _02_4_VariableEx1 {

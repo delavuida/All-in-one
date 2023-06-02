@@ -1,4 +1,4 @@
-package Chap_02;
+package chap_02;
 
 public class _02_1_VariableEx2 {
   public static void main(String[] args) {

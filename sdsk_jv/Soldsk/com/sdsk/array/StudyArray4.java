@@ -6,22 +6,22 @@ public class StudyArray4 {
 	public static void main(String[] args) {
 		ArrayList<String> cats = new ArrayList<>();
 		
-		cats.add("Å°Æ¼");
-		cats.add("¾ß¿ËÀÌ");
-		cats.add("³×¿À");
+		cats.add("í‚¤í‹°");
+		cats.add("ì•¼ì˜¹ì´");
+		cats.add("ë„¤ì˜¤");
 		
 		for(int i=0;i<cats.size();i=i+1) {
 			String s =cats.get(i);
 			System.out.println(s);
 		}
 		
-		// Çâ»óµÈ for¹®, for-each¹®
+		// í–¥ìƒëœ forë¬¸, for-eachë¬¸
 		for(String catName : cats) {
 			System.out.println(catName);
 		}
 		
-		// for(Å¸ÀÔ º¯¼ö : ¹è¿­) {
-		//     ½ÇÇà¹®
+		// for(íƒ€ì… ë³€ìˆ˜ : ë°°ì—´) {
+		//     ì‹¤í–‰ë¬¸
 		// }
 		
 		
